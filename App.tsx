@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>My First mobile app!</Text>
+      <Text>Demo changes to see that I worked from the branch</Text>
       <StatusBar style="auto" />
     </View>
   );
